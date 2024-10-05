@@ -12,11 +12,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      //   fontFamily: {
-      //     burtons: "burtons",
-      //     poppins: ["Poppins", "sans-serif"],
-      //     productSans: ["Product Sans", "sans-serif"],
-      //   },
+      fontFamily: {
+        burtons: "burtons",
+        libreBasker: "libreBaskerville",
+      },
       colors: {
         redCustom: "#E47572",
         blueCustom: "#95C8E0",
